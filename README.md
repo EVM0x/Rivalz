@@ -19,7 +19,7 @@ Light rClients allow users to contribute data space and limited compute from the
 screen -R Rivalz
 ```
 ```
-wget https://raw.githubusercontent.com/uangdrop/Rivalz/main/Rivalz.sh && chmod +x Rivalz.sh && ./Rivalz.sh
+wget https://raw.githubusercontent.com/Rivalz/main/Rivalz.sh && chmod +x Rivalz.sh && ./Rivalz.sh
 ```
 
 
